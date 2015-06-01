@@ -1,0 +1,10 @@
+{
+    "name": "me_me_me",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "me_me_me.xml",
+    "author": "mrbostrol",
+    "minimum_firmware_version": 42
+}
